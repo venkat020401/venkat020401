@@ -2,7 +2,8 @@
 <h3 align="center">Become a developer</h3>
 
 - 📫 Mail me **venkat020401@gmail.com**
-- 📫 connect me **9786353801**
+- ![image](https://user-images.githubusercontent.com/113085054/190385046-a4e2bb28-2791-496c-8dbd-6967b93225cb.png)
+ connect me **9786353801**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
