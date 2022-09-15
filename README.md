@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm venkatajalapathy</h1>
 <h3 align="center">Become a developer</h3>
 
+- 📫 How to reach me **venkat020401@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/venki_0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venki_0204" height="30" width="40" /></a>
