@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm venkatajalapathy</h1>
-<h3 align="center">Become a developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 📫 Mail me **venkat020401@gmail.com**
 - Connect me **9786353801**
+- Contact me **sddf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
