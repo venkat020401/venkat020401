@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/venki_0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venki_0204" height="30" width="40" /></a>
-  <a href="https://instagram.com/venki_0204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venki_0204" height="30" width="40" /></a>
+<a href="https://instagram.com/venki_0204" target="blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venki_0204" height="30" width="40" /></a>
+  <a href="https://api.whatsapp.com/send?phone=919786353801" target="blank" title="Whats app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="venki_0204" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
