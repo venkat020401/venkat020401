@@ -3,11 +3,11 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/venki_0204" target="blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venki_0204" height="30" width="40" /></a>
-  <a href="https://api.whatsapp.com/send?phone=919786353801" target="blank" title="Whats app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="venki_0204" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/venkatajalapathy-p" target="blank" title="LinkedIn"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="venki_0204" height="30" width="40" /></a>
+<a href="https://instagram.com/venki_0204" target="_blank" title="Instagram"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venki_0204" height="30" width="40" /></a>
+  <a href="https://api.whatsapp.com/send?phone=919786353801" target="_blank" title="Whats app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="venki_0204" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/venkatajalapathy-p" target="_blank" title="LinkedIn"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="venki_0204" height="30" width="40" /></a>
   
-  <a href="mailto:venkat020401@gmail.com" target="blank" title="Mail"><img align="center" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="venki_0204" height="30" width="40" /></a>
+  <a href="mailto:venkat020401@gmail.com" target="_blank" title="Mail"><img align="center" src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" alt="venki_0204" height="30" width="40" /></a>
   
 </p>
 
